@@ -1,0 +1,266 @@
+
+
+ Message ID = 2
+ Sent at  : 14/01/2019 06:22:41 PM
+ Sender   : admin
+ Receiver : Troll
+ Actual Message:
+ LOLLL
+
+
+ Message ID = 3
+ Sent at  : 14/01/2019 06:23:19 PM
+ Sender   : admin
+ Receiver : Thomas
+ Actual Message:
+ Geia
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 3
+ edited at: 15/01/2019, 12:01:45 PM
+ edited text:
+ allakse
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 3
+ edited at: 15/01/2019, 12:06:41 PM
+ edited text:
+ allakse ksana
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 1
+ edited at: 15/01/2019, 12:06:52 PM
+ edited text:
+ allakse
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 1
+ edited at: 15/01/2019, 12:07:51 PM
+ edited text:
+ Allakse ksana
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 2
+ edited at: 15/01/2019, 12:07:59 PM
+ edited text:
+ Allakse
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 2
+ edited at: 15/01/2019, 12:08:27 PM
+ edited text:
+ Allakse pali X 3
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 1
+ edited at: 15/01/2019, 12:17:03 PM
+ edited text:
+ xixixixi
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 2
+ edited at: 15/01/2019, 12:18:39 PM
+ edited text:
+ Lololo
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 3
+ edited at: 15/01/2019, 12:28:36 PM
+ edited text:
+ Allakse ksana x3
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 3
+ deleted at: 15/01/2019, 12:36:34 PM
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 1
+ deleted at: 15/01/2019, 12:37:00 PM
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 2
+ deleted at: 15/01/2019, 12:38:15 PM
+
+
+ Message ID = 1
+ Sent at  : 16/01/2019 12:42:43 AM
+ Sender   : Miney
+ Receiver : Mickey
+ Actual Message:
+ Hello Micley!!
+
+
+ Message ID = 2
+ Sent at  : 16/01/2019 12:44:45 AM
+ Sender   : Mickey
+ Receiver : Miney
+ Actual Message:
+ Hello Miney, I am mickey
+
+
+ Message ID = 1
+ Sent at  : 16/01/2019 12:46:46 AM
+ Sender   : admin
+ Receiver : Batman
+ Actual Message:
+ Hello Batman, admin here
+
+
+ Message ID = 2
+ Sent at  : 16/01/2019 12:53:27 AM
+ Sender   : admin
+ Receiver : Billy
+ Actual Message:
+ Hello Billy
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 2
+ edited at: 16/01/2019, 12:55:05 AM
+ edited text:
+ Hello Billy edited
+
+
+ Message ID = 3
+ Sent at  : 16/01/2019 01:04:14 AM
+ Sender   : Batgirl
+ Receiver : admin
+ Actual Message:
+ hello admin
+
+
+ Message ID = 4
+ Sent at  : 16/01/2019 01:09:39 AM
+ Sender   : admin
+ Receiver : Batman
+ Actual Message:
+ Hello new Batman
+
+
+ Message ID = 5
+ Sent at  : 16/01/2019 01:11:03 AM
+ Sender   : admin
+ Receiver : Batman
+ Actual Message:
+ Helllo
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 4
+ edited at: 16/01/2019, 01:23:10 AM
+ edited text:
+ Edited again
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 4
+ deleted at: 16/01/2019, 01:24:24 AM
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 2
+ deleted at: 16/01/2019, 01:31:13 AM
+
+
+ Message ID = 6
+ Sent at  : 16/01/2019 11:45:28 AM
+ Sender   : admin
+ Receiver : Billy
+ Actual Message:
+ Hi
+
+
+ Message ID = 7
+ Sent at  : 16/01/2019 11:46:11 AM
+ Sender   : admin
+ Receiver : Miny
+ Actual Message:
+ Hi miny
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 6
+ edited at: 16/01/2019, 11:47:50 AM
+ edited text:
+ Edited bu admin
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 5
+ deleted at: 16/01/2019, 11:49:27 AM
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 7
+ edited at: 16/01/2019, 11:50:30 AM
+ edited text:
+ Changed by admin
+
+
+ --MESSAGE HAS BEEN EDITED--
+ Message ID = 6
+ edited at: 16/01/2019, 11:50:41 AM
+ edited text:
+ changed by admin...
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 6
+ deleted at: 16/01/2019, 11:50:59 AM
+
+
+ --MESSAGE HAS BEEN DELETED--
+ Message ID = 7
+ deleted at: 16/01/2019, 11:51:06 AM
+
+
+ Message ID = 8
+ Sent at  : 16/01/2019 12:07:25 PM
+ Sender   : Troll
+ Receiver : admin
+ Actual Message:
+ Geia re alani
+
+
+ Message ID = 9
+ Sent at  : 16/01/2019 12:08:24 PM
+ Sender   : admin
+ Receiver : Troll
+ Actual Message:
+ Geia re new Troll
+
+
+ Message ID = 10
+ Sent at  : 16/01/2019 01:55:10 PM
+ Sender   : admin
+ Receiver : Batman
+ Actual Message:
+ Lolllllll
+
+
+ Message ID = 11
+ Sent at  : 16/01/2019 02:06:00 PM
+ Sender   : admin
+ Receiver : Batman
+ Actual Message:
+ fffff
+
+
+ Message ID = 12
+ Sent at  : 18/01/2019 02:42:26 PM
+ Sender   : admin
+ Receiver : Troll
+ Actual Message:
+ ddd

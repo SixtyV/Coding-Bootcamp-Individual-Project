@@ -1,0 +1,681 @@
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 14/01/2019 06:21:38 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 14/01/2019 06:35:46 PM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Lollos has been created
+ at: 14/01/2019, 06:36:38 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 11:39:16 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 11:46:58 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 11:55:32 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 11:57:51 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:01:27 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:06:19 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:16:19 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:16:52 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:18:03 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:35:40 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:37:46 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:44:43 PM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Thomas, rights changed to: Basic
+ At: 15/01/2019, 12:45:30 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 15/01/2019, 12:45:55 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Thomas, logged in 
+ at: 15/01/2019 12:46:01 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Thomas, logged out 
+ at: 15/01/2019, 12:46:03 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:46:09 PM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Thomas, rights changed to: Advanced
+ At: 15/01/2019, 12:46:33 PM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Thomas, rights changed to: Super Admin
+ At: 15/01/2019, 12:46:50 PM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Superman, rights changed to: Super Admin
+ At: 15/01/2019, 12:47:46 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:54:35 PM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Superman, has been deleted 
+ at: 15/01/2019, 12:55:14 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 15/01/2019, 12:55:50 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:56:09 PM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Thomas, has been deleted 
+ at: 15/01/2019, 12:56:41 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 15/01/2019, 12:56:50 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 12:57:06 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/01/2019 01:02:14 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 15/01/2019, 01:03:37 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Batman, logged in 
+ at: 15/01/2019 01:03:44 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:21:11 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:24:21 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:24:24 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Thomas, logged in 
+ at: 16/01/2019 12:24:35 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User BatGirl has been created
+ at: 16/01/2019, 12:30:28 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User John has been created
+ at: 16/01/2019, 12:31:22 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:31:33 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Goofy has been created
+ at: 16/01/2019, 12:32:01 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:32:07 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Mickey has been created
+ at: 16/01/2019, 12:32:56 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Miney has been created
+ at: 16/01/2019, 12:41:10 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:41:17 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:41:56 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Miney, logged in 
+ at: 16/01/2019 12:42:06 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Miney, logged out 
+ at: 16/01/2019, 12:43:13 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Mickey, logged in 
+ at: 16/01/2019 12:43:34 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Mickey, logged out 
+ at: 16/01/2019, 12:45:26 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:46:05 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Mickey has been created
+ at: 16/01/2019, 12:48:06 AM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Mickey, rights changed to: Basic
+ At: 16/01/2019, 12:49:05 AM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Mickey, rights changed to: Advanced
+ At: 16/01/2019, 12:49:21 AM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Mickey, rights changed to: Super Admin
+ At: 16/01/2019, 12:49:38 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Miny has been created
+ at: 16/01/2019, 12:50:11 AM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Mickey, has been deleted 
+ at: 16/01/2019, 12:51:15 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:51:42 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Billy has been created
+ at: 16/01/2019, 12:52:25 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:52:33 AM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Batman, has been deleted 
+ at: 16/01/2019, 12:56:31 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:56:54 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Batman has been created
+ at: 16/01/2019, 12:57:10 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Batman, logged in 
+ at: 16/01/2019 12:58:31 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Batman, logged out 
+ at: 16/01/2019, 12:58:34 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Batman, logged in 
+ at: 16/01/2019 12:59:02 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Batman, logged out 
+ at: 16/01/2019, 12:59:10 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Troll has been created
+ at: 16/01/2019, 12:59:25 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Troll, logged in 
+ at: 16/01/2019 12:59:56 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Troll, logged out 
+ at: 16/01/2019, 01:00:00 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Troll, logged in 
+ at: 16/01/2019 01:00:15 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Troll, logged out 
+ at: 16/01/2019, 01:01:19 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:01:28 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:02:03 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 01:02:17 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Batgirl has been created
+ at: 16/01/2019, 01:02:24 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:02:31 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 01:03:10 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Batgirl, logged in 
+ at: 16/01/2019 01:03:17 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Batgirl, logged out 
+ at: 16/01/2019, 01:03:24 AM
+
+
+ --A USER HAS LOGGED IN--
+ User Batgirl, logged in 
+ at: 16/01/2019 01:03:54 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User Batgirl, logged out 
+ at: 16/01/2019, 01:04:39 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:04:45 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:17:43 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:19:30 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:20:00 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:28:19 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:28:42 AM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Batman, has been deleted 
+ at: 16/01/2019, 01:34:16 AM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Batgirl, has been deleted 
+ at: 16/01/2019, 01:35:38 AM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 01:35:50 AM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 11:43:38 AM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Lollos has been created
+ at: 16/01/2019, 11:52:13 AM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Lollos, has been deleted 
+ at: 16/01/2019, 11:52:53 AM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Thomas, rights changed to: Basic
+ At: 16/01/2019, 12:02:00 PM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Thomas, rights changed to: Advanced
+ At: 16/01/2019, 12:02:13 PM
+
+
+ --ACCOUNT USER RIGHTS HAVE BEEN ALTERED--
+ User Thomas, rights changed to: Super Admin
+ At: 16/01/2019, 12:02:27 PM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Thomas, has been deleted 
+ at: 16/01/2019, 12:02:49 PM
+
+
+ --AN ACCOUNT HAS BEEN DELETED--
+ User Billy, has been deleted 
+ at: 16/01/2019, 12:04:13 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:04:44 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Superman, logged in 
+ at: 16/01/2019 12:04:51 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Superman, logged out 
+ at: 16/01/2019, 12:05:32 PM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Newly has been created
+ at: 16/01/2019, 12:05:49 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Newly, logged in 
+ at: 16/01/2019 12:06:19 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Newly, logged out 
+ at: 16/01/2019, 12:06:47 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Troll, logged in 
+ at: 16/01/2019 12:06:57 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Troll, logged out 
+ at: 16/01/2019, 12:08:06 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:08:10 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:08:35 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Troll, logged in 
+ at: 16/01/2019 12:08:42 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Troll, logged out 
+ at: 16/01/2019, 12:09:19 PM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Lollllo has been created
+ at: 16/01/2019, 12:09:31 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 12:09:46 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 12:09:51 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Troll, logged in 
+ at: 16/01/2019 12:10:06 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Troll, logged out 
+ at: 16/01/2019, 12:10:54 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:49:31 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 01:53:48 PM
+
+
+
+ --A USER ACOUNT HAS BEEN CREATED--
+ User Batman has been created
+ at: 16/01/2019, 01:54:31 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 01:55:21 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Batman, logged in 
+ at: 16/01/2019 01:55:31 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 16/01/2019 02:02:51 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 16/01/2019, 02:06:16 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Batman, logged in 
+ at: 16/01/2019 02:06:21 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 17/01/2019 10:26:56 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 17/01/2019, 10:27:17 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 18/01/2019 02:41:04 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User admin, logged out 
+ at: 18/01/2019, 02:41:21 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 18/01/2019 02:42:19 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Batman, logged in 
+ at: 29/01/2019 08:26:14 PM
+
+
+ --A USER HAS LOGGED IN--
+ User Thomas, logged in 
+ at: 15/06/2019 10:12:05 PM
+
+
+ --A USER HAS LOGGED OUT--
+ User Thomas, logged out 
+ at: 15/06/2019, 10:12:41 PM
+
+
+ --A USER HAS LOGGED IN--
+ User admin, logged in 
+ at: 15/06/2019 10:12:55 PM
